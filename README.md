@@ -6,3 +6,10 @@
 图片无损压缩工具，支持PNG、JPG格式、批量压缩。
 ###演示
 ![Image](ScreenShot/png&jpgcompress.gif)
+
+
+##apk\_signer
+APK签名(V2)渠道打包工具。
+
+###演示
+![Image](ScreenShot/apk_signer.gif)
